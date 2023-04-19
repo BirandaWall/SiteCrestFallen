@@ -93,6 +93,7 @@ header button{
    background-color:#131d4c;
    color:#fff;
 }
+
 .content .card .right img{
     height:300px;
     width: 600px;
@@ -108,8 +109,8 @@ footer{
 }
 footer h1{
     font-family: 'Playfair Display', serif;
-    border-bottom: 1px solid white;
-    width: 20%;
+   text-decoration: underline;
+    width: 100%;
     padding-bottom: 5px;
 }
 footer .services{
